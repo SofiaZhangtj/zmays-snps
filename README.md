@@ -1,1 +1,1 @@
-# zmays-snps
+# zmays-snpssamples expected from sequencing core
